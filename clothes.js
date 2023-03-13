@@ -28,9 +28,9 @@ const products = [
   },
   {
     id: 4,
-    name: "Men's Powder Canyon™ Interchange Jacket",
+    name: "Men's Powder Canyon™  Jacket",
     brand: "Confy",
-    desc: "Men's Powder Canyon™ Interchange Jacket",
+    desc: "Men's Powder Canyon™  Jacket",
     price: 2000,
     image:
       "https://columbia.scene7.com/is/image/ColumbiaSportswear2/2008001_491_f?wid=768&hei=806&v=1677661950",
